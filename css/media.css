@@ -1,0 +1,220 @@
+
+@media( (max-width:390px))
+{
+.list
+{
+    display: none;
+}
+.paws
+{
+    width:60%;
+    font-size: larger;
+}
+.btn1-sec1
+{
+    display: none;
+}
+.ani-icons
+{
+    margin-right:5%
+}
+.fa-bars
+{
+    display: flex;
+}
+.nav1{
+padding-bottom: 30%
+}
+.h1-sec1
+{
+    font-size: 42px;
+
+    width:100%;
+    margin-bottom: 5%;
+}
+.p-sec1
+{
+    width: 100%;
+    margin-bottom: 15%;
+}
+.sec1 
+{
+    background-size: 194% 100%;
+    background-position: left;
+}
+.btn2-sec1
+{
+    margin-bottom: 30%;
+}
+.hidden-icon
+{
+    visibility: visible;
+}
+.position-relative:hover .position-abs 
+{
+    visibility:visible;
+   
+}
+.icon-sec2
+{
+    width: 15%;
+}
+.nav-sec2
+{
+padding-bottom: 1%;
+}
+.div-sec2
+{
+    border: none;
+}
+.t-sec2
+{
+    font-size: 15px;
+}
+.search-div-sec2
+{
+    visibility: hidden;
+}
+.h4-5
+{
+width: 100%;
+justify-content: space-between;
+margin-bottom: 6%;
+}
+.cat-card
+{
+    width:100%;
+    margin-top: 7%;
+}
+.bear-card
+{
+    width: 100%;
+}
+.dog-card
+{
+   display: none;
+   
+}
+.d-flex-wrap
+{
+    flex-wrap: wrap;
+}
+.margin-left-75
+{
+    margin-left: 55%;
+}
+.div-t-sec2
+{
+    margin-bottom: 4%;
+}
+/* section 3 */
+.t-sec3
+{
+    display: none;
+}
+.t-sec3-subs
+{
+    display: block;
+}
+.cards
+{
+   width: 100%;
+
+}
+.pic1 
+{
+height: 140px;
+}
+.pic2 
+{
+height: 140px;
+}
+.pic3 
+{
+height: 140px;
+}
+.pic4 
+{
+height: 140px;
+}
+
+.pic5
+{
+    height: 270px;
+}
+.tall-card
+{
+    width: 100%;
+}
+.div-sec3
+{
+    margin: 4% auto;
+}
+.div-sec4-hid
+{
+    display: none;
+}
+.div-sec4-appear
+{
+    width: 100%;
+}
+.container2
+{
+    width:95%;
+    margin:2% auto;
+
+}
+.div-sec4
+{
+    border: none;
+    width: 100%;
+    margin-bottom: 10%;
+}
+.icon-sec2
+{
+    width: 10%;
+}
+ .h4
+{
+    color:rgba(102, 112, 133, 1)
+}
+/* section 5 */
+.class-wrap
+{
+    flex-wrap: wrap;
+}
+.c1 
+{
+    width: 49%;
+   
+    text-align: center;
+}
+.c2 
+{
+    width: 49%;
+   
+    text-align: center;
+}
+.c3
+{
+    width: 49%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.c4 
+{
+    width: 49%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.ic-sec5
+{
+   margin-left: 30%;
+   margin-bottom: 10%;
+}
+/* sec 6 */
+.hidden-sec
+{
+    display: none;
+}
+}
